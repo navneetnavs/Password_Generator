@@ -7,7 +7,7 @@ Generate strong and secure passwords
 Choose the length, complexity, and character types of the passwords
 Copy the generated passwords to the clipboard
 # Usage:
-To use the password generator, simply open the index.html file in a web browser.
+To use the password generator, simply click on the link given.
 Enter the desired length, complexity, and character types for the passwords.
 Click on the "Generate Password" button.
 The generated passwords will be copied to the clipboard.
